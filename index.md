@@ -3,11 +3,10 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## home page what's up
 
+- [here is my website](https://www.claire-morrison.com)
 
-#### Here are some example pages:
+### about me
 
-- [Markdown](02-markdown-examples)
-- [Images](03-images-examples)
-- [Embeds](04-embeds-examples)
+I'm a graduate student studying the genetic and environmetal influences on sleep health and elucidating its relationships with psychiatric disorders. 
