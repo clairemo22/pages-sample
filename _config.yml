@@ -29,7 +29,7 @@ twitter_username: sorandomclaire
 github_username:  clairemo22
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
