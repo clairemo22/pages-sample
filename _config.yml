@@ -20,16 +20,15 @@
 
 title: claire morrison
 email: clmo1617@colorado.edu
-# description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
-url: "https://clairemo22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://clairemo22.github.io" 
 twitter_username: sorandomclaire
 github_username:  clairemo22
-linkedin_username: "https://www.linkedin.com/in/claire-morrison-goat/"
+linkedin_username: claire-morrison-goat
 
 # Build settings
-theme: minima
+theme: alembic
 plugins:
   - jekyll-feed
 
